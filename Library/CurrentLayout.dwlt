@@ -188,7 +188,7 @@ MonoBehaviour:
   - {fileID: 17}
   - {fileID: 11}
   m_Selected: 0
-  m_LastSelected: 2
+  m_LastSelected: 1
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -397,14 +397,14 @@ MonoBehaviour:
     width: 1285
     height: 620
   m_SceneLighting: 1
-  lastFramingTime: 5482.867269084416
+  lastFramingTime: 8783.59439085343
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 26.341358, y: -27.605057, z: 21.694468}
+    m_Target: {x: 18.75, y: -27.09426, z: 1.4465368}
     speed: 2
-    m_Value: {x: 26.341358, y: -27.605057, z: 21.694468}
+    m_Value: {x: 18.75, y: -27.09426, z: 1.4465368}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -427,13 +427,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.010966884, y: -0.97302413, z: 0.04763494, w: 0.22583388}
+    m_Target: {x: 0.20698318, y: 0.7329163, z: -0.25412586, w: 0.59629995}
     speed: 2
-    m_Value: {x: 0.010965973, y: -0.9729433, z: 0.047630984, w: 0.22581512}
+    m_Value: {x: 0.20696643, y: 0.732857, z: -0.2541053, w: 0.59625167}
   m_Size:
-    m_Target: 7.886323
+    m_Target: 8.736275
     speed: 2
-    m_Value: 7.886323
+    m_Value: 8.736275
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -530,19 +530,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scenes
+    - Assets/Materials
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Sussy\Documents\CarraigeForestGame
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 157}
-    m_SelectedIDs: ea2c0000
-    m_LastClickedID: 11498
-    m_ExpandedIDs: 00000000f62600006427000050280000c6290000242a0000522b0000502e0000762e0000783100007a3100007c3100007e31000000ca9a3bffffff7f
+    m_SelectedIDs: 60340000
+    m_LastClickedID: 13408
+    m_ExpandedIDs: 00000000222c0000062d0000ec2e0000923100002c32000028340000ca3900000c3a0000463e0000483e00004a3e00004c3e000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -570,7 +570,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f62600006427000050280000c6290000242a0000522b0000502e0000762e0000783100007a3100007c3100007e310000
+    m_ExpandedIDs: 00000000222c0000062d0000ec2e0000923100002c32000028340000ca3900000c3a0000463e0000483e00004a3e00004c3e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -597,7 +597,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 84240000a45afdff8a2400008e24000096240000e06f0000ea380000ce2500009a2400009c240000a6240000a2240000a424000046450000ac240000ee240000e424000074410000aa310000d43c00001a3f00001e2c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -679,23 +679,23 @@ MonoBehaviour:
     height: 937
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f89d0000
-    m_LastClickedID: 40440
-    m_ExpandedIDs: 4044f8ff6642fcff18c9fdffd23affff5efbffff62fbffff66fbffff6cfbffff70fbffff76fbffff7efbffff82fbffff86fbffff8afbffff8efbffff92fbffff9afbffff9efbffffa2fbffffaefbffffe4fbffff000000001a300000443000004e300000
+    m_SelectedIDs: e46df4ff
+    m_LastClickedID: -758300
+    m_ExpandedIDs: e2fbffff00000000283d0000383d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Cube
+      m_OriginalName: Cube
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: -12184
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 4
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 9}
     m_SearchString: 

@@ -182,6 +182,7 @@
     <Compile Include="Assets\Scripts\TreeMover.cs" />
     <Compile Include="Assets\Scripts\TreeMoverParent.cs" />
     <Compile Include="Assets\Scripts\TreeSpawnTrigger.cs" />
+    <Compile Include="Assets\Scripts\pickUppable.cs" />
     <Compile Include="Assets\Skele\AnimatorSP\Files\AnimatorData.cs" />
     <Compile Include="Assets\Skele\AnimatorSP\Files\Classes\AMAction.cs" />
     <Compile Include="Assets\Skele\AnimatorSP\Files\Classes\AMAnimationAction.cs" />
