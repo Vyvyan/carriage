@@ -95,6 +95,8 @@
     <Compile Include="Assets\FarlandSkies\Demo\Scripts\Player\SmoothMouseLook.cs" />
     <Compile Include="Assets\FarlandSkies\Demo\Scripts\Skybox\SkyboxChanger.cs" />
     <Compile Include="Assets\FarlandSkies\Demo\Scripts\Skybox\SkyboxRotator.cs" />
+    <Compile Include="Assets\GemExample\Scripts\DemoTimeOfDay.cs" />
+    <Compile Include="Assets\GemExample\Scripts\Orbit.cs" />
     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaBox3.cs" />
     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaControllers\MegaBezFloatKeyControl.cs" />
     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaControllers\MegaBezVector3KeyControl.cs" />
@@ -708,6 +710,7 @@
     <None Include="Assets\FX Mega Pack\Scripts\Simple Particle Scaler\Simple Particle Scaler - Readme.txt" />
     <None Include="Assets\FX Mega Pack\Shaders\Particle AddAlphaBlended Mobile.shader" />
     <None Include="Assets\FX Mega Pack\Shaders\Particle AddAlphaBlended.shader" />
+    <None Include="Assets\Gem\Shaders\Gem.shader" />
     <None Include="Assets\Mega-Fiers\Scripts\MegaScatter\ReadMe.txt" />
     <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramCompute.compute" />
     <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramRender.shader" />

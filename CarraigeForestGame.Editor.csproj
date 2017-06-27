@@ -322,6 +322,7 @@
     <None Include="Assets\FX Mega Pack\Scripts\Simple Particle Scaler\Simple Particle Scaler - Readme.txt" />
     <None Include="Assets\FX Mega Pack\Shaders\Particle AddAlphaBlended Mobile.shader" />
     <None Include="Assets\FX Mega Pack\Shaders\Particle AddAlphaBlended.shader" />
+    <None Include="Assets\Gem\Shaders\Gem.shader" />
     <None Include="Assets\Mega-Fiers\Scripts\MegaScatter\ReadMe.txt" />
     <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramCompute.compute" />
     <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramRender.shader" />
